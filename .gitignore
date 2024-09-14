@@ -1,3 +1,5 @@
 Arsen.txt
 
 *.class
+
+/somefolder/
